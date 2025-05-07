@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pyaudio
+sounddevice
+scipy
+playsound
